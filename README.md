@@ -1,0 +1,2 @@
+# goWorld
+study of go
